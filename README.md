@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Alt text](https://i.ibb.co.com/PzmPNFBs/Email-Signature.png)
+![Alt text](https://i.ibb.co.com/qLFmxj10/Banner.png)
 
 
 <!--
