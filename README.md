@@ -1,4 +1,4 @@
-![Your Banner](https://i.ibb.co.com/qLFmxj10/Banner.png)
+![Your Banner](https://i.pinimg.com/1200x/ab/34/4d/ab344dba1b7b3bc2dbabe938fc6eecb8.jpg)
 
 I’m a Dhaka‑based frontend web developer who loves turning imaginative designs into reality.  
 I build beautiful, interactive interfaces that bring new ideas to life through code.  
