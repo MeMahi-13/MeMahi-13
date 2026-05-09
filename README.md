@@ -1,46 +1,64 @@
 ![Your Banner](https://i.pinimg.com/1200x/ab/34/4d/ab344dba1b7b3bc2dbabe938fc6eecb8.jpg)
 
-I’m a Dhaka‑based frontend web developer who loves turning imaginative designs into reality.  
-I build beautiful, interactive interfaces that bring new ideas to life through code.  
-When I’m not coding, I’m curled up with a book, traveling to discover new inspirations, or exploring projects that sharpen my skills.
+# ✨ Hey, I’m Mahi
 
-## Current Activities
+A frontend developer from Dhaka who finds poetry in both **code and books**.
+I don’t just build interfaces — I create little digital worlds where design and logic meet.
 
-Here are some of the things I’m working on right now:
+> *“What you seek is seeking you.”* — Rumi 🌙
 
-- Exploring **Next.js** to level up my skills in modern frontend frameworks.
-- Experimenting with interactive UI patterns and animations to enhance user engagement.
-- Reading design and development books to stay inspired and informed.
-- Planning small side‑projects that challenge what I know and help me practice new techniques.
+When I’m not coding, you’ll find me:
 
----
-
-## My Skills
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,nextjs,figma&theme=light)](https://skillicons.dev)
+* 📖 lost in novels and poetry
+* ☕ sipping coffee with a half-written idea
+* ✈️ dreaming about places I haven’t been yet
+* 💡 turning inspiration into side projects
 
 ---
 
-## Connect with Me
+## 🌿 Current Chapter
+
+Right now, I’m gently growing and exploring:
+
+* 🌱 Learning **Next.js** to build modern, powerful apps
+* 🎨 Crafting interactive UI with smooth animations
+* 📚 Reading books that shape both design & thinking
+* 💻 Building small projects that challenge my comfort zone
+
+> *“Let yourself be silently drawn by the strange pull of what you really love.”* — Rumi
+
+---
+
+## 💻 My Skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,nextjs,figma\&theme=light)](https://skillicons.dev)
+
+---
+
+## 🌸 Connect with Me
 
 <p>
   <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/filled/linkedin.svg" width="32" alt="LinkedIn"/>
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/filled/linkedin.svg" width="32" />
   </a>
   <a href="https://twitter.com/yourhandle">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/filled/twitter.svg" width="32" alt="Twitter"/>
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/filled/twitter.svg" width="32" />
   </a>
   <a href="https://github.com/yourusername">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/filled/github.svg" width="32" alt="GitHub"/>
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/filled/github.svg" width="32" />
   </a>
 </p>
 
 ---
 
+## 🌙 My GitHub Story
 
-##  My GitHub Stats
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MeMahi-13\&show_icons=true\&theme=tokyonight)](https://github.com/MeMahi-13)
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MeMahi-13&show_icons=true&theme=tokyonight)](https://github.com/MeMahi-13)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeMahi-13\&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+> *“Set your life on fire. Seek those who fan your flames.”* — Rumi 🔥
+
 ---
