@@ -1,4 +1,4 @@
-![Your Banner](https://ibb.co.com/XZbQ2YdZ)
+![Your Banner](https://i.postimg.cc/cLJPNVqX/f824503b-7931-49a4-9429-aed1fa0272c6.png)
 
 I'm a Dhaka-based Full Stack Web Developer passionate about building modern, interactive, and user-focused web applications.
 I build beautiful, interactive interfaces that bring new ideas to life through code.  
