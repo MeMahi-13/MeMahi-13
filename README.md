@@ -1,6 +1,6 @@
 ![Your Banner](https://i.ibb.co.com/qLFmxj10/Banner.png)
 
-I’m a Dhaka‑based frontend web developer who loves turning imaginative designs into reality.  
+I'm a Dhaka-based Full Stack Web Developer passionate about building modern, interactive, and user-focused web applications.
 I build beautiful, interactive interfaces that bring new ideas to life through code.  
 When I’m not coding, I’m curled up with a book, traveling to discover new inspirations, or exploring projects that sharpen my skills.
 
