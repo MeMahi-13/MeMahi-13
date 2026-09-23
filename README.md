@@ -37,10 +37,11 @@ Here are some of the things I’m working on right now:
 
 ---
 
+## My GitHub Stats
 
-##  My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MeMahi-13&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeMahi-13&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</p>
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MeMahi-13&show_icons=true&theme=tokyonight)](https://github.com/MeMahi-13)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 ---
